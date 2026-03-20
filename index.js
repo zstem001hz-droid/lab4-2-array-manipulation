@@ -47,3 +47,4 @@ function displayList() {
         console.log(shoppingList[i])
     }
 }
+displayList();
